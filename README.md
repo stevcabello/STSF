@@ -20,3 +20,4 @@ STSF achieves comparable accuracy to state-of-the-art TSC methods while being si
 
 # Usage
 
+For a working example run --> STSF Code/Main.m
