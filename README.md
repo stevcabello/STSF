@@ -21,3 +21,9 @@ STSF achieves comparable accuracy to state-of-the-art TSC methods while being si
 # Usage
 
 For a working example run --> STSF code/Main.m
+
+
+# The Randomized-Supervised Time Series Forest (r-STSF)
+A significantly more accurate and extremely fast interval-based classifier based on ideas from STSF can be found in:
+
+Cabello, N., Naghizade, E., Qi, J. et al. Fast, accurate and explainable time series classification through randomization. Data Min Knowl Disc (2023). https://doi.org/10.1007/s10618-023-00978-w
